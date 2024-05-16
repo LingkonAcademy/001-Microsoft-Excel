@@ -1,0 +1,25 @@
+Subjects: যোগ, বিয়োগ, গুন, ভাগ, ভাগশেষ 
+
+Timestamp & Topics:
+
+0:00 Intro
+0:16 যোগ/Sum+
+1:31 বিয়োগ/Subtraction-
+2:16 গুন/Multiplication*
+3:16 ভাগ/Division/
+4:10 ভাগশেষ/Modulus%
+
+Formula:
+=SUM(Start:End)
+=Start-End
+=Start*End
+=Start/End
+=MOD(A1,B1)
+
+Playlist Link:
+
+
+Keywords:
+যোগফল নির্ণয়ের সূত্র
+যোগ, বিয়োগ, গুন, ভাগ,ভাগশেষ 
+Sum Subtraction Multiplication Division Modulus
