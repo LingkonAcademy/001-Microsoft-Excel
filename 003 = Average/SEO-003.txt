@@ -1,0 +1,21 @@
+Title: EXCEL 003 | Calculate Average in Excel | Use This Function | Formula | Bangla 2024
+
+Average - সহজেই বের করা শিখুন | Function Average | How to use Excel to calculate?
+
+Formula:
+=AVERAGE(A1:A20)
+
+Playlist Link:
+https://youtube.com/playlist?list=PLkU7O2DvLHTL0W4iTnbQX2Fugg0LJM4QE&si=164Fe0UxCS8UdQJR
+
+Source Code:
+github.com/LingkonAcademy/001-Microsoft-Excel
+
+How to use Excel to calculate,
+How to use average if in Excel,
+What is average range in Excel formula,
+What is the shortcut for average in Excel,
+How to calculate average in Excel,
+calculate average in Excel,
+খুব সহজেই বের করা শিখুন
+এক্সেলের গড় পরিসরের সূত্র কি?

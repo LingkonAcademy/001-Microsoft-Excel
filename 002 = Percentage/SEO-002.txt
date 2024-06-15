@@ -1,0 +1,30 @@
+Subjects: Percentage Calculate in Excel
+
+
+Formula:
+=my-mark/total-mark * 100
+
+Playlist Link:
+https://youtube.com/playlist?list=PLkU7O2DvLHTL0W4iTnbQX2Fugg0LJM4QE&si=164Fe0UxCS8UdQJR
+
+Keywords:
+Excel percentage calculation,
+How to calculate percentage in Excel,
+Excel percentage formula,
+Calculate percentages in Excel,
+Excel tutorial percentage,
+Percentage function in Excel,
+Excel basics percentage
+Excel percentage change formula
+Finding percentage in Excel
+Excel percentage tutorial for beginners
+Step-by-step Excel percentage calculation
+Excel percentage examples
+Excel percentage of total
+Excel percentage increase
+Excel percentage decrease
+Excel percentage tips
+Easy Excel percentage calculation
+Percentage difference in Excel
+Calculate percentage from two numbers in Excel
+Learn Excel percentage calculation

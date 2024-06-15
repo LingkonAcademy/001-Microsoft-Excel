@@ -1,0 +1,28 @@
+Title: EXCEL 004 | Min and Max Function in Excel | Minimam Maximum | Bangla Tutorials 2024 | Lingkon Academy
+
+Chapters:
+Min
+Max
+
+Formula:
+=MIN(A1:A20)
+=MAX(A1:A20)
+
+Playlist Link:
+https://youtube.com/playlist?list=PLkU7O2DvLHTL0W4iTnbQX2Fugg0LJM4QE&si=164Fe0UxCS8UdQJR
+
+Source Code:
+github.com/LingkonAcademy/001-Microsoft-Excel
+
+
+Keywords:
+
+Min and Max Function in Excel,
+Formula of Sum Average Min Max in Excel,
+ How to use formula in Excel, 
+How find Max & Min value in Excel Bangla,  
+Max & Min formula in Excel Bangla, 
+Minimum Summation,
+Functions in Excel,
+Excel Tutorial Formulas,
+Learn Excel,

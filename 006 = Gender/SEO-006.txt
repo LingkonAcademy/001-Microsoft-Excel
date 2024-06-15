@@ -1,0 +1,19 @@
+Subjects: EXCEL 006 | Gender Finder | Male or Female | Boys or Girls | Bangla Tutorials 2024 | Lingkon Academy
+
+
+Chapters:
+
+
+Formula:
+
+=IF(A3="Mr","Male","Female")
+=IF(A3="MD","Boys","Girls")
+
+Playlist Link:
+https://youtube.com/playlist?list=PLkU7O2DvLHTL0W4iTnbQX2Fugg0LJM4QE&si=164Fe0UxCS8UdQJR
+
+
+Keywords:
+
+
+Tags:
